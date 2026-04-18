@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, eu sou o Lenilson! 👋<br><br>​Sobre: Estudante de Sistemas para Internet apaixonado por construir soluções robustas no ecossistema Backend.<br>​<br>O que estou estudando/praticando:<br>​Construção de APIs RESTful com Spring Boot.<br>​Persistência de dados e consultas SQL.<br>​Implementação de documentação com OpenAPI/Swagger.<br><br>​🚀 Tech Stack: Java (Spring Boot), C# e SQL .<br>​🎓 Formação: 3º Período de Sistemas para Internet.<br>​🎯 Objetivo: Primeira oportunidade como Desenvolvedor Backend / Estagiário.<br>​📫 Contato: [https://www.linkedin.com/in/lenilson-pereira/]
+Olá, eu sou o Lenilson! 👋<br><br>​Sobre: Estudante de Sistemas para Internet apaixonado por construir soluções robustas no ecossistema Backend.<br>​<br> O que estou estudando/praticando:<br>​Construção de APIs RESTful com Spring Boot.<br>​Persistência de dados e consultas SQL.<br>​Implementação de documentação com OpenAPI/Swagger.<br><br>​🚀 Tech Stack: Java (Spring Boot), C# e SQL .<br>​🎓 Formação: 3º Período de Sistemas para Internet.<br>​🎯 Objetivo: Primeira oportunidade como Desenvolvedor Backend / Estagiário.<br>​📫 Contato: [https://www.linkedin.com/in/lenilson-pereira/]
 
 
 ## 🌐 Socials:
